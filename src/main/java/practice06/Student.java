@@ -1,4 +1,30 @@
 package practice06;
 
-public class Student {
+import practice06.Person;
+
+public class Student extends Person{
+
+	private int klass;
+	
+	public int getKlass() {
+		return klass;
+	}
+	public void setKlass(int klass) {
+		this.klass = klass;
+	}
+	
+	public Student(String name, int age,int klass) {
+		super(name, age);
+		this.klass = klass;
+	}
+	
+	/**
+	 * functionName:introduce方法
+	 * param 
+	 * return String
+	 * **/
+	@Override
+	public String introduce() {
+		return super.introduce() + " I am a Student. I am at Class "+ this.klass +".";
+	}
 }
