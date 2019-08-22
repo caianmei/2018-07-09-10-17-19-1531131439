@@ -1,3 +1,3 @@
-Ğ´Ò»¸öPersonÀà£¬ÒªÓĞname£¬ageÊôĞÔ£¬ÒªÓĞÒ»¸öintroduce·½·¨£¬ introduce·½·¨·µ»ØÒ»¸ö×Ö·û´®ĞÎÈç£º
+å†™ä¸€ä¸ªPersonç±»ï¼Œè¦æœ‰nameï¼Œageå±æ€§ï¼Œè¦æœ‰ä¸€ä¸ªintroduceæ–¹æ³•ï¼Œ introduceæ–¹æ³•è¿”å›ä¸€ä¸ªå­—ç¬¦ä¸²å½¢å¦‚ï¼š
 
 My name is Tom. I am 21 years old.

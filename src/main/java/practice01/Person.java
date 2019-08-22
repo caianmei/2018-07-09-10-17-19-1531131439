@@ -2,9 +2,9 @@ package practice01;
 
 public class Person {
 	
-	/**ĞÕÃû**/
+	/**å§“å**/
 	private String name;
-	/**Äêıg**/
+	/**å¹´é¾„**/
 	private  int age;
 	 
 	public String getName() {
@@ -23,18 +23,18 @@ public class Person {
 		this.age = age;
 	}
 
-	/**¹¹Ôìº¯Êı**/
+	/**æ„é€ å‡½æ•°**/
 	public Person(String name,int age) {
 		this.name = name;
 		this.age = age;
 	}
 	
 	/**
-	 * functionName:introduce·½·¨
+	 * functionName:introduceæ–¹æ³•
 	 * param 
 	 * return String
 	 * **/
 	public String introduce() {
-		return "My name is" + this.name + ". I am "+ this.age +" years old.";
+		return "My name is " + this.name + ". I am "+ this.age +" years old.";
 	}
 }
